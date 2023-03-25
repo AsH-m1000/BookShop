@@ -43,7 +43,7 @@ const ProfileScreen = () => {
                 </View>
                 <View style={styles.row}>
                     <Icon name="email" color="#777777" size={20} />
-                    <Text style={{ color: "#777777", marginLeft: 20 }}>john_doe@gmail.com</Text>
+                    <Text style={{ color: "#777777", marginLeft: 20 }}>user_name@gmail.com</Text>
                 </View>
             </View>
 
