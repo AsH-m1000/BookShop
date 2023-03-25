@@ -67,7 +67,7 @@ const Search = () => {
                                             display: "flex", margin: 10, justifyContent: "center",
                                             alignItems: "center"
                                         }]}>
-                                            <Image source={require("../assets/books2.jpg")} style={{ width: 75, height: 75, borderRadius: 50 }} />
+                                            <Image source={require("../assets/books1.jpg")} style={{ width: 75, height: 75, borderRadius: 50 }} />
                                         </View>
                                         <View style={styles.text}>
                                             <Text numberOfLines={1} style={{ fontSize: 10, color: "#000", fontSize: 15 }}>{item.volumeInfo.title}</Text>
